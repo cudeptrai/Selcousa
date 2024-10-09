@@ -13,174 +13,9 @@
         <div class="lg:col-span-9">
           <h2 class="font-bold py-2">CHỐNG SÉT LAN TRUYỀN WEIDMULLER</h2>
           <div class="lg:m-2 mb-2">
-            <div class="grid lg:grid-cols-4 grid-cols-2 gap-4">
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
-              </div>
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
-              </div>
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
-              </div>
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
-              </div>
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
-              </div>
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
-              </div>
-              <div class="col-span-1">
-                <div class="border ">
-                  <div class="p-3">
-                    <div class="flex justify-center items-center">
-                      <NuxtLink to="">
-                        <NuxtImg width="185" height="160" src="/images/product.jpg" />
-                      </NuxtLink>
-                    </div>
-                    <div class="pt-2">
-                      <NuxtLink to="">
-                        <h2>BỘ CHỐNG SÉT LAN TRUYỀN ĐƯỜNG </h2>
-                      </NuxtLink>
-                    </div>
-                    <div class="uppercase pt-2 text-codeProducts">
-                      Mã SP: 135258000
-                    </div>
-                    <NuxtLink class="font-light text-lg block mt-3" to="">
-                      <button class="bg-primary py-1 w-full text-white hover:bg-red-500">
-                        Liên hệ mua hàng
-                      </button>
-                    </NuxtLink>
-                  </div>
-                </div>
+            <div class="grid lg:grid-cols-3 grid-cols-2 gap-4">
+              <div v-for="(item, index) in ProductList" :key="index">
+                <ProductItem :item="item"/>
               </div>
             </div>
           </div>
@@ -192,6 +27,48 @@
 
 <script lang="ts" setup>
 
+const ProductList = [
+  {
+    image: [
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+    ],
+    title: 'XAPD1201 – HỘP RỖNG KIM LOẠI – SCHNEIDER – TIENHUNGTECH',
+    code: 135258000,
+  },
+  {
+    image: [
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+    ],
+    title: 'XAPD1201 – HỘP RỖNG KIM LOẠI – SCHNEIDER – TIENHUNGTECH',
+    code: 135258000,
+  },
+  {
+    image: [
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+    ],
+    title: 'XAPD1201 – HỘP RỖNG KIM LOẠI – SCHNEIDER – TIENHUNGTECH',
+    code: 135258000,
+  },
+  {
+    image: [
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+      'images/XAPD1201-website-385x385 (1).jpg',
+    ],
+    title: 'XAPD1201 – HỘP RỖNG KIM LOẠI – SCHNEIDER – TIENHUNGTECH',
+    code: 135258000,
+  },
+]
 </script>
 
 <style></style>
